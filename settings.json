@@ -1,4 +1,4 @@
-2{
+ {
   "name": "AFK Bot",
   "bot-account": {
     "username": "Technoblade",
@@ -8,7 +8,7 @@
   "server": {
     "ip": "hodenhagen-nUCW.aternos.me",
     "port": 43117,
-    "version": "1.26.3"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
